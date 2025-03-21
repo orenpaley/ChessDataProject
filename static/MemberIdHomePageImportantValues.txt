@@ -1,0 +1,47 @@
+0: 15827994: OREN PALEY
+1: Current Published<br>Rating ( Supplement)
+2: <nobr>
+1483&nbsp;&nbsp;
+2025-03<br>(Current floor is 1300)</nobr>
+
+3:
+1679&nbsp;&nbsp;
+2025-03
+4:
+(Unrated)&nbsp;&nbsp;
+
+5:
+(Unrated)&nbsp;&nbsp;
+
+6:
+(Unrated)&nbsp;&nbsp;
+
+7:
+(Unrated)&nbsp;&nbsp;
+
+8: National and State Rankings
+9: Rank as of  2025-03-01
+
+10: Percentile
+11: 13231(Tied) out of 80123
+12: 83.5
+13: 863(Tied) out of 3797
+14: 77.3
+15: 4th Category
+16:
+(Unrated)
+17:
+CA
+18:
+M
+19: 2025-10-31
+20:
+21: 39967239
+22:
+23: 2025-03-18
+
+1483
+2025-03
+
+B:\CSharp\UsChessWebScraper\bin\Debug\net9.0\UsChessWebScraper.exe (process 26032) exited with code 0 (0x0).
+Press any key to close this window . . .

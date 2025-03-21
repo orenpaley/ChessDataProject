@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\CSharp\\ChessDataProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|b:\\csharp\\chessdataproject\\uschessparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|solutionrelative:uschessparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|b:\\csharp\\chessdataproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|b:\\csharp\\chessdataproject\\static\\memberidhomepageimportantvalues.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|solutionrelative:static\\memberidhomepageimportantvalues.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\CSharp\\ChessDataProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "B:\\CSharp\\ChessDataProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:03:17.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsChessParser.cs",
+              "DocumentMoniker": "B:\\CSharp\\ChessDataProject\\UsChessParser.cs",
+              "RelativeDocumentMoniker": "UsChessParser.cs",
+              "ToolTip": "B:\\CSharp\\ChessDataProject\\UsChessParser.cs",
+              "RelativeToolTip": "UsChessParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:32:36.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 139,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberIdHomePageImportantValues.txt",
+              "DocumentMoniker": "B:\\CSharp\\ChessDataProject\\static\\MemberIdHomePageImportantValues.txt",
+              "RelativeDocumentMoniker": "static\\MemberIdHomePageImportantValues.txt",
+              "ToolTip": "B:\\CSharp\\ChessDataProject\\static\\MemberIdHomePageImportantValues.txt",
+              "RelativeToolTip": "static\\MemberIdHomePageImportantValues.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-19T22:03:41.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
