@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "B:\\CSharp\\ChessDataProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|ChessDataProject.csproj|b:\\csharp\\chessdataproject\\uschessparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|ChessDataProject.csproj|solutionrelative:uschessparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|b:\\csharp\\chessdataproject\\uschessparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|solutionrelative:uschessparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|ChessDataProject.csproj|b:\\csharp\\chessdataproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|ChessDataProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|b:\\csharp\\chessdataproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|ChessDataProject.csproj|b:\\csharp\\chessdataproject\\static\\memberidhomepageimportantvalues.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|ChessDataProject.csproj|solutionrelative:static\\memberidhomepageimportantvalues.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|b:\\csharp\\chessdataproject\\static\\memberidhomepageimportantvalues.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63735398-FFAF-4ABA-9A27-E737C542F99A}|UsChessWebScraper.csproj|solutionrelative:static\\memberidhomepageimportantvalues.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "UsChessParser.cs",
               "ToolTip": "B:\\CSharp\\ChessDataProject\\UsChessParser.cs",
               "RelativeToolTip": "UsChessParser.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T19:32:36.264Z",
               "EditorCaption": ""

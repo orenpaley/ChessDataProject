@@ -14,15 +14,16 @@ class UsChessParser
     {
         memberId = id;
     }
-	public HtmlDocument GetMemberHomePage()
+	public HtmlDocument GetMemberHomePage(string memberId)
 	{
 
         HtmlWeb web = new HtmlWeb();
         HtmlDocument htmlDoc = web.Load(memberHomePage + memberId);
         return htmlDoc;
     }
-    public static HtmlNodeCollection getValues()
+    public HtmlNodeCollection getValues(string memberId)
 	{
-        return GetMemberHomePage().DocumentNode.SelectNodes("//b");
+        var doc = GetMemberHomePage(memberId);
+        return doc.DocumentNode.SelectNodes("//b");
 	}
 }
